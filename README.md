@@ -18,52 +18,29 @@ La Galería de Fotos Personal es una aplicación web que te permite mostrar y ge
 
 ## Instalación
 
-1. Clona este repositorio en tu máquina local:
-   ```shell
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+1. Clona este repositorio en tu máquina local: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+2. Navega hasta el directorio del proyecto: `cd tu-repositorio`
+3. Instala las dependencias necesarias: `npm install`
+4. Inicia el servidor de desarrollo: `npm start`
+5. Abre tu navegador y accede a [http://localhost:3000](http://localhost:3000) para ver la aplicación.
 
-Navega hasta el directorio del proyecto:
+## Tecnologías utilizadas
 
-shell
-Copy code
-cd tu-repositorio
-Instala las dependencias necesarias:
+- Frontend: HTML5, CSS3, JavaScript.
 
-shell
-Copy code
-npm install
-Inicia el servidor de desarrollo:
+## Contribución
 
-shell
-Copy code
-npm start
-Abre tu navegador y accede a http://localhost:3000 para ver la aplicación.
-
-Tecnologías utilizadas
-Frontend: HTML5, CSS3, JavaScript.
-Contribución
 Si deseas contribuir a este proyecto, sigue los pasos a continuación:
 
-Haz un fork de este repositorio.
-Crea una rama con la nueva característica:
-shell
-Copy code
-git checkout -b nueva-caracteristica
-Realiza los cambios necesarios y realiza commits:
-shell
-Copy code
-git commit -am 'Agrega una nueva característica'
-Envía los cambios a tu repositorio remoto:
-shell
-Copy code
-git push origin nueva-caracteristica
-Envía una solicitud de pull (pull request) a este repositorio principal.
-Autor
+1. Haz un fork de este repositorio.
+2. Crea una rama con la nueva característica: `git checkout -b nueva-caracteristica`
+3. Realiza los cambios necesarios y realiza commits: `git commit -am 'Agrega una nueva característica'`
+4. Envía los cambios a tu repositorio remoto: `git push origin nueva-caracteristica`
+5. Envía una solicitud de pull (pull request) a este repositorio principal.
+
+## Autor
+
 Lopez Alvaro Mauricio
 
-Enlace al perfil de GitHub: lopezalvaro16
+Enlace al perfil de GitHub: [lopezalvaro16](https://github.com/lopezalvaro16/)
 
-r
-Copy code
-
-¡Usa este código Markdown en tu archivo README.md y se verá formateado correctamente en Gi
