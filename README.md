@@ -1,4 +1,5 @@
 Galería de Fotos Personal
+==================
 La Galería de Fotos Personal es una aplicación web que te permite mostrar y gestionar tus fotos de viajes de forma fácil y personalizada.
 
 Características principales
