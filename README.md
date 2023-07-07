@@ -28,10 +28,6 @@ La Galería de Fotos Personal es una aplicación web que te permite mostrar y ge
 
 - Frontend: HTML5, CSS3, JavaScript.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, sigue los pasos a continuación:
-
 1. Haz un fork de este repositorio.
 2. Crea una rama con la nueva característica: `git checkout -b nueva-caracteristica`
 3. Realiza los cambios necesarios y realiza commits: `git commit -am 'Agrega una nueva característica'`
